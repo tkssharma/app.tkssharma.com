@@ -9420,7 +9420,7 @@ const data = [
     img: i.snippet.thumbnails.high.url,
     category: "Full Stack web development",
     keyword: ["Node", "GraphQL", "NextJS", "Primsa", "Postgres"],
-    liveUrl: `https://www.youtube.com/embed/videoseries?list=${video.id}`,
+    liveUrl: `https://www.youtube.com/embed/videoseries?list=${i.id}`,
   })
 })
 
