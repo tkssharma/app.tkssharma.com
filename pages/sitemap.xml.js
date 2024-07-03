@@ -1,4 +1,3 @@
-import projects from "../components/data/projects";
 
 const getXmlUrlWrapper = (path) => `<url>
 <loc>https://web.tkssharma.com/${path.startsWith("/") ? path.slice(1) : path
@@ -21,17 +20,12 @@ async function getXMLUrlsForStaticPaths(host) {
     .join("");
 }
 
-async function getXMLUrlsForProjects(host, prefix) {
-  return projects
-    .map((project) => getXmlUrlWrapper(`${prefix}${project.slug}`))
-    .join("");
-}
+
 
 async function getSitemapXML(host) {
   return `<?xml version="1.0" encoding="UTF-8"?>
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     ${await getXMLUrlsForStaticPaths(host)}
-    ${await getXMLUrlsForProjects(host, "projects/")}
     </urlset>
     `;
 }
