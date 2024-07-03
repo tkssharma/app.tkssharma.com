@@ -1,34 +1,6 @@
 const data = [
   {
     "kind": "youtube#searchResult",
-    "etag": "nBzwIXksx8KIl33U3M9j7ELPvi8",
-    "id": {
-      "kind": "youtube#channel",
-      "channelId": "UCdG7UiL4tQ3a0lmeb_a-0cQ"
-    },
-    "snippet": {
-      "publishedAt": "2023-06-18T12:21:31Z",
-      "channelId": "UCdG7UiL4tQ3a0lmeb_a-0cQ",
-      "title": "HowToGuides",
-      "description": "lifewithcode Welcome to my channel life with code (How to Guides) Learn all Tech stuff with me [Angular, Nest JS, Sveltekit, React ...",
-      "thumbnails": {
-        "default": {
-          "url": "https://yt3.ggpht.com/afooWc3ONuBMv-QnGETv0KpB1yG3qiijbcngD4nx70Is28jzBmuh0laWTyhlRO0AxKmca-23eA=s88-c-k-c0xffffffff-no-rj-mo"
-        },
-        "medium": {
-          "url": "https://yt3.ggpht.com/afooWc3ONuBMv-QnGETv0KpB1yG3qiijbcngD4nx70Is28jzBmuh0laWTyhlRO0AxKmca-23eA=s240-c-k-c0xffffffff-no-rj-mo"
-        },
-        "high": {
-          "url": "https://yt3.ggpht.com/afooWc3ONuBMv-QnGETv0KpB1yG3qiijbcngD4nx70Is28jzBmuh0laWTyhlRO0AxKmca-23eA=s800-c-k-c0xffffffff-no-rj-mo"
-        }
-      },
-      "channelTitle": "HowToGuides",
-      "liveBroadcastContent": "none",
-      "publishTime": "2023-06-18T12:21:31Z"
-    }
-  },
-  {
-    "kind": "youtube#searchResult",
     "etag": "xRovb5Lzzbc-qg1r9gB0eBdVTe8",
     "id": {
       "kind": "youtube#playlist",
