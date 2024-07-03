@@ -9420,11 +9420,11 @@ const data = [
     img: i.snippet.thumbnails.high.url,
     category: "Full Stack web development",
     keyword: ["Node", "GraphQL", "NextJS", "Primsa", "Postgres"],
-    liveUrl: "https://tkssharma.com",
+    liveUrl: `https://www.youtube.com/embed/videoseries?list=${video.id}`,
   })
 })
 
-data.length = 20;
+data.length = 40;
 
 
 export default data;
