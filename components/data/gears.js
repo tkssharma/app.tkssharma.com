@@ -33,10 +33,10 @@ const gears = [
   },
   {
     id: "03",
-    title: "Blue Yeti Microphone",
+    title: "Sennheiser Profile USB microphone for podcasting",
     subtitle:
-      "Blue Yeti USB Microphone for Recording, Streaming, Gaming, Podcasting on PC and Mac, Condenser Mic for Laptop or Computer with Blue VO!CE Effects, Adjustable Stand, Plug and Play - Slate",
-    img: "/images/blue-yeti.jpg",
+      "Sennheiser Profile USB microphone for podcasting, recording, streaming and gaming. Built-in headphone output, all metal housing and cardioid condenser capsule",
+    img: "/images/mic1.jpg",
     category: "Java",
     keyword: [],
     liveUrl: "https://amzn.to/3YKZ9FT",
@@ -66,6 +66,17 @@ const gears = [
   },
   {
     id: "01",
+    title: "OBS studio [free]",
+    subtitle:
+      "Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux",
+    img: "/images/obs.png",
+    category: "Java",
+    keyword: [],
+    liveUrl: "https://obsproject.com/",
+    ribbonText: "Amazon",
+  },
+  {
+    id: "01",
     title: "Seagate Expansion 1TB External HDD",
     subtitle:
       "Seagate Expansion 1TB External HDD - USB 3.0 for Windows and Mac with 3 yr Data Recovery Services, Portable Hard Drive (STKM1000400)",
@@ -73,6 +84,28 @@ const gears = [
     category: "Java",
     keyword: [],
     liveUrl: "https://amzn.to/3QMm5Q8",
+    ribbonText: "Amazon",
+  },
+  {
+    id: "01",
+    title: "Elgato Stream Deck",
+    subtitle:
+      "Elgato Stream Deck - Live Content Creation Controller with 15 customizable LCD keys, adjustable stand, for Windows 10 and macOS 10.11 or later",
+    img: "/images/sd.jpg",
+    category: "Java",
+    keyword: [],
+    liveUrl: "https://www.amazon.in/Elgato-Stream-Deck-Controller-customizable/dp/B06XKNZT1P/ref=asc_df_B06XKNZT1P/?tag=googleshopdes-21&linkCode=df0&hvadid=397080435032&hvpos=&hvnetw=g&hvrand=6219152383871533277&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061781&hvtargid=pla-383503409236&mcid=b781d16b593d3e5dbf70823382fb9dbd&ext_vrnc=hi&th=1",
+    ribbonText: "Amazon",
+  },
+  {
+    id: "01",
+    title: "Maono AU-A04 Condenser Microphone Kit (Black)",
+    subtitle:
+      "This condenser microphone has internally designed with a professional sound chipset, with a high resolution sampling rate, With a high resolution sampling rate, the versatility of this condenser microphone is more than ideal for your home recordings, podcasts and voiceovers",
+    img: "/images/mic.jpg",
+    category: "Java",
+    keyword: [],
+    liveUrl: "https://www.amazon.in/Elgato-Stream-Deck-Controller-customizable/dp/B06XKNZT1P/ref=asc_df_B06XKNZT1P/?tag=googleshopdes-21&linkCode=df0&hvadid=397080435032&hvpos=&hvnetw=g&hvrand=6219152383871533277&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061781&hvtargid=pla-383503409236&mcid=b781d16b593d3e5dbf70823382fb9dbd&ext_vrnc=hi&th=1",
     ribbonText: "Amazon",
   },
   {
