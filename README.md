@@ -1,4 +1,6 @@
-# Tarun Sharma
+# Tarun Sharma Blog Profile
+
+![](./main.png)
 
 ### Free Open Source BootCamp
 This repository is a part of "Free Open Source BootCamp"
